@@ -8,6 +8,13 @@ ULSAH
 - priparolas pri la diversaj specoj de memoriloj, kaj siaj utiloj kaj malutiloj, se oni volas uzi
   specifan specon de memorilo
 
+### la 30-an de Januaro 2018
+
+- lernis, ke la durdiska miso de niaj aparatoj estas neevitbla (kaj kiel oni pli bone interpretas la
+  fidindecan precizigon de niaj durdiskoj), kaj se eĉ SSD pli rapidas ol HDD, ankoraŭ ekzistas la
+  pli bona uzado de ĉi tiuj durdiskaj specoj. Ankaŭ lernis la diversaj specoj de la durdiska (aŭ
+  aparata) interfaco (ĉefe priparolis la kontrastojn inter la rapidojn de la diversaj specoj).
+
 ### la 23-an de Januaro 2018
 
 - legas nune pri la diversaj specoj de memoriloj, kaj la ĉapitroj ankaŭ priparolas pri la optima
