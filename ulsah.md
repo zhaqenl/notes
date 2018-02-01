@@ -8,12 +8,19 @@ ULSAH
 - priparolas pri la diversaj specoj de memoriloj, kaj siaj utiloj kaj malutiloj, se oni volas uzi
   specifan specon de memorilo
 
+### la 1-an de Februaro 2018
+
+- legu (kaj komprenu pli bone), plejparton da klarigon de la kontrasto inter krei 'Subdiskon' kaj
+  trakti 'LVM' (ankaŭ legu kelke da kontrastoj inter la diversaj specoj de 'subdiskon' kaj la bazaj
+  tavoloj de memora administrado)
+
 ### la 30-an de Januaro 2018
 
 - lernis, ke la durdiska miso de niaj aparatoj estas neevitbla (kaj kiel oni pli bone interpretas la
   fidindecan precizigon de niaj durdiskoj), kaj se eĉ SSD pli rapidas ol HDD, ankoraŭ ekzistas la
   pli bona uzado de ĉi tiuj durdiskaj specoj. Ankaŭ lernis la diversaj specoj de la durdiska (aŭ
-  aparata) interfaco (ĉefe priparolis la kontrastojn inter la rapidojn de la diversaj specoj).
+  aparata) interfaco (ĉefe priparolis la kontrastojn inter la rapidojn de la diversaj specoj). (paĝo
+  1164)
 
 ### la 23-an de Januaro 2018
 
