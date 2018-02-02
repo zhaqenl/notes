@@ -8,6 +8,15 @@ ULSAH
 - priparolas pri la diversaj specoj de memoriloj, kaj siaj utiloj kaj malutiloj, se oni volas uzi
   specifan specon de memorilo
 
+### la 2-an de Februaro 2018
+
+- antaŭe legis kaj komprenis (finfine) plejparto de la klarigo de la RAID-a agordo (kaj la
+  kontrastoj inter la diversaj specoj de RAID, kaj la plej ofte uzitaj specoj). La ŝubcapitro
+  priparolis la ĉefajn avantaĝojn por uzi la RAID-an agordon, kaj, tio estas la ebla funkcia
+  avantaĝo, tamen, la pli grava kialo, estas la redundo de la dataoj ene la diversaj diskoj. Kiam
+  unu disko malsukcesas, plejofte, nur la, eble, rapida funkciado de la diskoj estas afekciita, la
+  dataoj kiu estas ene la diversaj diskoj estas 'spegulita'. (paĝo 1213)
+
 ### la 1-an de Februaro 2018
 
 - legu (kaj komprenu pli bone), plejparton da klarigon de la kontrasto inter krei 'Subdiskon' kaj
