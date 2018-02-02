@@ -2,6 +2,13 @@ CLAGITSC
 ========
 
 
+la 2-an de Februaro 2018
+------------------------
+
+- nune en ĉapitro 3, kiu priparolas ĉefe la `eval`-an prezenton, kaj kiel trakti bone la argumentojn
+  de la funkcio por eviti fari multe da eraroj pri la uzado de la simbolo ' (ankaŭ priparolas, ke la
+  vera funkcio de ' estas por eviti taksadon)
+
 la 1-an de Februaro 2018
 ------------------------
 
