@@ -8,6 +8,12 @@ ULSAH
 - priparolas pri la diversaj specoj de memoriloj, kaj siaj utiloj kaj malutiloj, se oni volas uzi
   specifan specon de memorilo
 
+### la 4-an de Februaro 2018
+
+- legas la eblojn de ZFS kaj Btrfs (tamen, unue, ZFS). La ĉapitro priparolas kelke da bazaj funkcioj
+  de ZFS, ekzemple, sia propran aŭtomatan eraran rekonon kaj sia ĝenerala rendimento, kaj la bazaj
+  komandoj por administri la dosiersistemon. (paĝo 1235)
+
 ### la 2-an de Februaro 2018
 
 - antaŭe legis kaj komprenis (finfine) plejparto de la klarigo de la RAID-a agordo (kaj la
