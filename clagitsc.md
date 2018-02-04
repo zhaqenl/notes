@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 4-an de Februaro 2018
+------------------------
+
+- priparolis la bazaj erarojn kiam oni maluzas la citilan simbolon kaj priparolis, ke la EVAL-a
+  funkcio donis nin unu nivelo de taksado, ekzemple, (eval ''test) nur donas nin test (kaj ankaŭ
+  priparolis la pli profundan nivelon de la interna strukturo de simboloj). La ekzercoj nun estas
+  ene la komputilo. (Nune ene ĉapitro kvar kiu priparolas, ĉefe, kondiĉojn kaj la kialo kial ili
+  estas nomita 'specialaj' funkcioj). (paĝo 137)
+
 la 2-an de Februaro 2018
 ------------------------
 
