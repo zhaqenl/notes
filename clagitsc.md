@@ -2,6 +2,17 @@ CLAGITSC
 ========
 
 
+la 5-an de Februaro 2018
+------------------------
+
+- legis la uzadon de la STEP-a utilo, kaj pri buleaj funkcioj kaj vertabeloj, kaj finfine pri la
+  teoremo de Demorgan kiu parolas pri la interŝanĝebla de AND kaj OR (aldone la uzado de
+  NOT). Ĉapitro 5 parolas pri variabloj kaj kromefikoj, kaj la koncepto de malloka variablo. Lernis
+  la uzado de la SETF funkcio (lernis, ke la okazo krom la eligo estas la kromefiko (kiu estas,
+  kelkfoje, pli grava ol la eligo de la funkcio)), LET, kaj la LET* funkcioj. La nuna ĉapitro diras,
+  ke oni ofte devas eviti por uzi kromefikojn ene la kodo (ankaŭ priparolas la 'documentation'-an
+  funkcion kaj 'apropos'-an funkcion). Nun estas ene la klavara ekzercoj de ĉapitro 5.
+
 la 4-an de Februaro 2018
 ------------------------
 
