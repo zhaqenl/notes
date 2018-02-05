@@ -2,6 +2,24 @@ ULSAH
 =====
 
 
+Ĉapitro 21a: Retodosiersistemo
+------------------------------
+
+- priparolas la alian metodon por kunhavi doseriojn kiu estas per la reto
+
+### la 5-an de Februaro 2018
+
+- Antaŭe legas la eblojn de la btrfs-a dosiersistemo. Priparolis unu el la avantaĝo de btrfs kiu
+  estas, estas pli bone ol ZFS, ĉefe, kiam oni ŝanĝas la hadvaroagordon. Ankaŭ priparolis la
+  ĝeneralan sekurkopian strategion, kaj la gravaj demandoj pri ĉi tiu (kaj la gravaj faktoroj ke oni
+  devas pripensi kiam oni volas pensi por fari ĉi tiun, ekzemple, mono).  La nuna ĉapitro ĉefe
+  priparolas pri la diversaj specoj por transmeti dosierojn per la reto. Nune, ĉefe, priparolis la
+  ĉefan kontraston inter 'stateful' kaj 'stateless' serviloj, kaj ankaŭ priparolis la rendimenton de
+  ĉi tiu metodo por transmeti dosierojn (kaj la evidentan gravecon de sekurigo). Nune priparolas la
+  detalojn de NFS (ekzemple, la diversaj versioj kiu ne estas kongrua kun unu la alian, do, la NFS-a
+  serviloj uzas multe da versio de NFS). (paĝo 1259)
+
+
 Ĉapitro 20a: Memorilo
 ---------------------
 
