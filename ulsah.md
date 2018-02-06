@@ -7,6 +7,15 @@ ULSAH
 
 - priparolas la alian metodon por kunhavi doseriojn kiu estas per la reto
 
+### la 6-an de Februaro 2018
+
+- priparolis la metodon kiu NFS uzas por trakti la komunajn dosierujojn (per eksportoj) kaj la
+  detaloj de sia agordo, ekzemple, sia sekuriga agordo (kaj priparolis la malgrandegajn detalojn por
+  precizigi la metodon por eksporti la dosierojn/dosierujo). Ankaŭ priparolis la diversajn aferojn
+  kiu oni devas eviti, se eblas, ekzemple, oni devas eviti por uzi la 'AUTH_SYS'-an opcion kiel
+  sekurigo de NFS, tial ke, ekzistas sekurigaj koncernoj, kaj por eviti uzi tute NFS3, anstataŭe,
+  uzu NFS4. (paĝo 1276)
+
 ### la 5-an de Februaro 2018
 
 - Antaŭe legas la eblojn de la btrfs-a dosiersistemo. Priparolis unu el la avantaĝo de btrfs kiu
