@@ -2,6 +2,16 @@ CLAGITSC
 ========
 
 
+la 6-an de Februaro 2018
+------------------------
+
+- faris la klavarajn ekzercojn de ĉapitro 5. Parolis pri la aldonada informo de la interna strukturo
+  de 'Simbolojn'. Lernis, ke oni povas titoli funkcion kiel simile al la nomo de la integrita
+  funkcio ene Komunlispo, tial ke, ene la strukturo de simboloj, la 'valoro' kaj la 'funkcio' parto
+  ne similas. (plimulte da funkcioj por ŝanĝi listojn). Priparolis la aliajn metodojn (funkciojn)
+  por ŝanĝi aŭ vidi la enhavojn de listoj. Priparolis la funkciojn por ŝanĝi la aspekton de listaj
+  aroj (ekzemple, la 'member' kaj 'intersection' funkcioj).
+
 la 5-an de Februaro 2018
 ------------------------
 
