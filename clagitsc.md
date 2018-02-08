@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 8-an de Februaro 2018
+------------------------
+
+- faris ekzercon kiu montris, kiel subdividi problemon (dum uzi la listaj araj funkcioj). Legis la
+  uzadon de listoj kiel tabloj (kaj pri la gravaj funkcioj). Legos, sekve, pri SDRAW.
+
 la 6-an de Februaro 2018
 ------------------------
 
