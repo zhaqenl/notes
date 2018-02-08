@@ -7,6 +7,15 @@ ULSAH
 
 - priparolas la alian metodon por kunhavi doseriojn kiu estas per la reto
 
+### la 8-an de Februaro 2018
+
+- priparolis kiel plejbonigi NFS-on per kontroli la rendimenton de nfsd kaj kiel ŝanĝi kiuj versioj
+  por kuri. Lernis ke la uzado de ion, kiu estas simile al fajroŝirmilo kiam oni kontrolas la NFS-an
+  klienton, estas nur iomete gravas. Lernis la komandon por montri la NFS-ajn
+  statistikojn. Priparolis la alternativon de la memfarita metodo de NFS (kiu estas la dediĉita
+  NFS-a servilo, inkluzive la avantaĝoj). Ankaŭ priparolis la alian metodon por alternative fari la
+  aŭtomatan taskon por surmeti (anstataŭ por meti ion ene /etc/fstab). Legos, sekve, pri SMB.
+
 ### la 6-an de Februaro 2018
 
 - priparolis la metodon kiu NFS uzas por trakti la komunajn dosierujojn (per eksportoj) kaj la
