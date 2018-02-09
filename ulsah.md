@@ -2,6 +2,27 @@ ULSAH
 =====
 
 
+Ĉapitro 22a: Agordoadministrado
+-------------------------------
+
+- priparolas la aŭtomatan procezon por agordi multe da serviloj
+
+### la 9-an de Februaro 2018
+
+- priparolis, ĝenerale, la ĝeneralan atenditan konduton de Agordoadministradaj sistemoj.
+
+
+Ĉapitro 22a: SMB
+----------------
+
+- priparolas la Vindoz-an specon de NFS
+
+### la 9-an de Februaro 2018
+
+- priparolis 'Sambda', kiu estas la SMB-a servilo por /UNIX/. Priparolis kelke da komando por uzi
+  SMB, ekzemple, `smbclient`, kaj `smbstatus` por sencimigi. 
+
+
 Ĉapitro 21a: Retodosiersistemo
 ------------------------------
 
