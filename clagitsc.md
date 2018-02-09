@@ -2,6 +2,17 @@ CLAGITSC
 ========
 
 
+la 9-an de Februaro 2018
+------------------------
+
+- elŝutis la 'sdraw'-an utilon, tiam, uzis ĝin por helpi min por solvi la sekvajn klavarajn
+  ekzercojn. Priparolis la kontrastojn inter la 'eq' kaj la 'equal' funkcioj kaj la aliaj predikataj
+  funkcioj kiu ne estas antaŭe priparolis. Priparolis la malnepran argumenton de kelke da funkcioj,
+  ekzemple, la `remove` funkcio kiu forigas specifajn nombrojn de unu el la argumento de
+  `remove`. Priparolis la uzadon de `mapcar` por uzi la diversajn specojn de funkcioj sur listoj
+  (kaj priparolis la ĝustan metodon por uzi funkciojn kiel argumento de `mapcar` (kiu estas por uzi
+  la 'sharp quote', aŭ simple, ''#')).
+
 la 8-an de Februaro 2018
 ------------------------
 
