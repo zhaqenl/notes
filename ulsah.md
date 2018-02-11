@@ -7,6 +7,12 @@ ULSAH
 
 - priparolas la aŭtomatan procezon por agordi multe da serviloj
 
+### la 11-an de Februaro 2018
+
+- priparolis la ĉefan kontraston inter la diversaj CM sistemoj, kiu estas la 'serverless' kaj la
+  'serverful' agordo, kiu donas la sistemadministradon diversa speco de kompliko, kaj la ĝenerala
+  profesiista komento pri la kvar ĉefa speco de CM sistemoj.
+
 ### la 9-an de Februaro 2018
 
 - priparolis, ĝenerale, la ĝeneralan atenditan konduton de Agordoadministradaj sistemoj.
