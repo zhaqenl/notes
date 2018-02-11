@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 11-an de Februaro 2018
+-------------------------
+
+- faris la ekzercoj kiu bezonas min por uzi la lambdofunkciojn sur la `mapcar` funckio, la `find-if`
+  funkcio, kaj la `remove-if` kaj `remove-if-not` funckioj.
+
 la 9-an de Februaro 2018
 ------------------------
 
