@@ -2,11 +2,19 @@ CLAGITSC
 ========
 
 
+la 12-an de Februaro 2018
+-------------------------
+
+- faris la ceterajn ekzercojn kiu devigis min por uzi `mapcar`, `find-if`, `remove-if` kaj
+  `remove-if-not`, `every`, kaj `reduce`. Lernis kiel uzi `trace` kaj `untrace` (kaj la alia versio
+  de `trace` kiu havas pli multe da eligo ol `trade` (`dtrace`)). Faros, sekve, la klavarekzercojn
+  de ĉapitro 7 (kiu estas antaŭ la akcelitaj subjektoj de ĉapitro 7).
+
 la 11-an de Februaro 2018
 -------------------------
 
-- faris la ekzercoj kiu bezonas min por uzi la lambdofunkciojn sur la `mapcar` funckio, la `find-if`
-  funkcio, kaj la `remove-if` kaj `remove-if-not` funckioj.
+- faris la ekzercojn kiu bezonas min por uzi la lambdofunkciojn sur la `mapcar` funckio, la
+  `find-if` funkcio, kaj la `remove-if` kaj `remove-if-not` funckioj.
 
 la 9-an de Februaro 2018
 ------------------------
