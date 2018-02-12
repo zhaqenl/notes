@@ -7,6 +7,13 @@ ULSAH
 
 - priparolas la aŭtomatan procezon por agordi multe da serviloj
 
+### la 12-an de Februaro 2018
+
+- Parolis pri la averto por uzi __Chef__ kiel CM sistemoj, tial ke, la ĉapitro diris, ke ni ne devas
+  aldoni nebezonatan komplikon kiam ni agordas nian CM-ajn sistemojn (kaj ni devas havi tre multe da
+  nombro de sistemoj por agordi, por ke, la uzado de __Chef__ kialigitas). Montris simplan ekzemplon
+  de agordi kelke da Linuksaj komandoj ene Ansible. 
+
 ### la 11-an de Februaro 2018
 
 - priparolis la ĉefan kontraston inter la diversaj CM sistemoj, kiu estas la 'serverless' kaj la
