@@ -2,6 +2,13 @@ CLAGITSC
 ========
 
 
+la 13-an de Februaro 2018
+-------------------------
+
+- finis fari la ĉeterajn ekzercojn antaŭ la akcelita ĉapitro de ĉapitro 7. La akeclitaj lecionoj
+  montris kiel krei funkciojn kiu funkcias simile al `mapcar` kaj sia amikoj, kaj kiel krei funkcioj
+  kiu ankaŭ havas funkciojn kiel sia enhavoj. Nune parolas pri la rikuraj funkcioj.
+
 la 12-an de Februaro 2018
 -------------------------
 
