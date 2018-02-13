@@ -7,6 +7,11 @@ ULSAH
 
 - priparolas la aŭtomatan procezon por agordi multe da serviloj
 
+### la 13-an de Februaro 2018
+
+- Priparolis la uzadon de __Salt__, kaj sia bona kutimo (inkluzive la sekuriga zorgo pri la agordo
+  de ĉi tiu) por agordi __Salt__ kiel la CM sistemo.
+
 ### la 12-an de Februaro 2018
 
 - Parolis pri la averto por uzi __Chef__ kiel CM sistemoj, tial ke, la ĉapitro diris, ke ni ne devas
