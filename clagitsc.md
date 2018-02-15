@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 15-an de Februaro 2018
+-------------------------
+
+- faris diversajn ekzercojn kiu volas min por reskribi la funkciajn kodojn de la antaŭaj ĉapitroj,
+  rikure.
+
 la 13-an de Februaro 2018
 -------------------------
 
