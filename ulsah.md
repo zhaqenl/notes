@@ -7,6 +7,10 @@ ULSAH
 
 - priparolas la aŭtomatan procezon por agordi multe da serviloj
 
+### la 15-an de Februaro 2018
+
+- Legis la ĝeneralajn sintaksojn de la dosieroj ke Salt bezonas por komence agordi siajn agordojn.
+
 ### la 13-an de Februaro 2018
 
 - Priparolis la uzadon de __Salt__, kaj sia bona kutimo (inkluzive la sekuriga zorgo pri la agordo
