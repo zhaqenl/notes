@@ -2,10 +2,36 @@ ULSAH
 =====
 
 
-Ĉapitro 22a: Agordoadministrado
+Ĉapitro 25a: Enteniloj
+----------------------
+
+- priparolas Docker-on, kiu estas ĉefa ekzemplo de entenilo
+
+### la 16-an de Februaro 2018
+
+- priparolos la ĉefajn konceptojn de enteniloj.
+
+
+Ĉapitro 24a: Virtualigo
+-----------------------
+
+- priparolas la koncepton de imiti la konduto de aliaj serviloj
+
+### la 16-an de Februaro 2018
+
+- priparolis la kutimajn terminarojn kiu oni renkontas kiam oni parolas pri 'Virtualigoj'. Ankaŭ
+  priparolis la diversajn specojn de Virtualigoj. 
+
+
+Ĉapitro 23a: Agordoadministrado
 -------------------------------
 
 - priparolas la aŭtomatan procezon por agordi multe da serviloj
+
+### la 16-an de Februaro 2018
+
+- priparolis la ĝeneralajn faktorojn por konsideri antaŭ oni devas elekti sian elekton inter Ansible
+  kaj Salt kaj la plej bonanj kutimojn por administri la CM-an sistemojn. 
 
 ### la 15-an de Februaro 2018
 
