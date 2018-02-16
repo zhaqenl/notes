@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 16-an de Februaro 2018
+-------------------------
+
+- konvertis kelke da funkcioj kiu funkcias por listaj arboj kaj la ĉeteraj funkcioj kiu funkcias por
+  listaj aroj.
+
 la 15-an de Februaro 2018
 -------------------------
 
