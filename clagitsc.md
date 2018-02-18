@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 18-an de Februaro 2018
+-------------------------
+
+- priparolis la uzadon de la helpantaj funkcioj kaj faris la ekzercojn kiu volis min por krei
+  funkciojn kiu bezonas aldonan helpanton funkcion. 
+
 la 16-an de Februaro 2018
 -------------------------
 
