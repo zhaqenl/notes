@@ -7,6 +7,11 @@ ULSAH
 
 - priparolas Docker-on, kiu estas ĉefa ekzemplo de entenilo
 
+### la 18-an de Februaro 2018
+
+- priparolis la kutimajn uzitajn Docker-ajn komandojn kaj, pli grave, priparolis la kutimajn uzadajn
+  scenarojn de kelke de la komandoj. 
+
 ### la 16-an de Februaro 2018
 
 - priparolos la ĉefajn konceptojn de enteniloj.
