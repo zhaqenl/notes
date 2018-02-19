@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 19-an de Februaro 2019
+-------------------------
+
+- finis fari la ekzercojn de ĉapitro 8 antaŭ la ĉefa klavara ekzerco. Faris kelke da ĉefa klavara
+  ekzerco kiu volas min por krei funckiojn kiu povas akiri erojn de la familia tabelo.
+
 la 18-an de Februaro 2018
 -------------------------
 
