@@ -7,6 +7,11 @@ ULSAH
 
 - priparolas Docker-on, kiu estas ĉefa ekzemplo de entenilo
 
+### la 19-an de Februaro 2018
+
+- priparolis kelke da reguloj por kutimiĝi al la uzado de enteniloj. Priparolis la diversajn specojn
+  de enteniloadministradoj (Kubernets 'k8s', Swarm, ktp). 
+
 ### la 18-an de Februaro 2018
 
 - priparolis la kutimajn uzitajn Docker-ajn komandojn kaj, pli grave, priparolis la kutimajn uzadajn
