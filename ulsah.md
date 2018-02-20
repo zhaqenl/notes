@@ -2,6 +2,19 @@ ULSAH
 =====
 
 
+Ĉapitro 26a: Daŭran Integradon kaj Liveradon
+--------------------------------------------
+
+- priparolas la procezon de integri kaj deliveri ĝisdatigojn de softvaroj
+
+### la 20-an de Februaro 2018
+
+- priparolis la bonajn kutimajn praktikojn de la disvolvado de CI/CD procezoj, ekzemple, la uzado de
+  Git kiel la 'speca kontrolo' (kaj ankaŭ priparolis la laborfluon de CI/CD-a ŝaltita
+  metejo). Priparolis la diversajn specojn de ekzamenoj kiu oni povas aldoni al la ĉenstablo de
+  CI/CD (kaj por uzi la komunan prudenton por bone elekti kiun ekzamenoj por realigi). 
+
+
 Ĉapitro 25a: Enteniloj
 ----------------------
 
