@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 20-an de Februaro 2019
+-------------------------
+
+- finis fari la ĉefan klavaran ekzercon de ĉapitro 8. Priparolis la koncepton de vosta rikuro kaj
+  nune konvertas rikurajn funkciojn al la vosta rikura speco.
+
 la 19-an de Februaro 2019
 -------------------------
 
