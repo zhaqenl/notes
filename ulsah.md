@@ -2,10 +2,26 @@ ULSAH
 =====
 
 
+Ĉapitro 27a: Sekurigon
+----------------------
+
+- priparolis la malrapidan progreson de la evoluo de komputila sekurigo.
+
+### la 22-an de Februaro 2018
+
+- antaŭparolis pri kelke da okazoj, se oni pensas pri preterpasi ĉi tiun ĉapitron. Priparolis kiel
+  breĉi la sekurigon de specifa sistemo.
+
+
 Ĉapitro 26a: Daŭran Integradon kaj Liveradon
 --------------------------------------------
 
 - priparolas la procezon de integri kaj deliveri ĝisdatigojn de softvaroj
+
+### la 22-an de Februaro 2018
+
+- montris simplan ekzemplon de CI/CD ene praktika scenaro. Priparolis kiel realigi ertestojn kiel la
+  komenca testaro. 
 
 ### la 20-an de Februaro 2018
 
