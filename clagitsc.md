@@ -2,13 +2,19 @@ CLAGITSC
 ========
 
 
-la 20-an de Februaro 2019
+la 22-an de Februaro 2018
+-------------------------
+
+- legis la uzadon de la speciala funkcio 'labels'. Faris kelke da ekzercoj kiu estas pri la rikuraj
+  datumstrukturoj.
+
+la 20-an de Februaro 2018
 -------------------------
 
 - finis fari la ĉefan klavaran ekzercon de ĉapitro 8. Priparolis la koncepton de vosta rikuro kaj
   nune konvertas rikurajn funkciojn al la vosta rikura speco.
 
-la 19-an de Februaro 2019
+la 19-an de Februaro 2018
 -------------------------
 
 - finis fari la ekzercojn de ĉapitro 8 antaŭ la ĉefa klavara ekzerco. Faris kelke da ĉefa klavara
