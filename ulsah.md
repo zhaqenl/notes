@@ -7,6 +7,14 @@ ULSAH
 
 - priparolis la malrapidan progreson de la evoluo de komputila sekurigo.
 
+### la 23-an de Februaro 2018
+
+- priparolis unu el la plej gravaj aferoj kiu oni bezonas fari por sekurigi ilian propran sistemon
+  kiu estas por instali sekurigajn ĝisdatigojn. Priparolis kiel ĉefe trakti pasvortojn pli bone (aŭ
+  pasfrazojn). Priparolis kelke da sekurigajn utilojn (ekzemple, `nmap` kaj kiel uzi tion por montri
+  gravajn informojn, Nessus-o, Metasploit-o, kaj ktp.). Priparolis iomete la koncepton de
+  'Kriptografio'. 
+
 ### la 22-an de Februaro 2018
 
 - antaŭparolis pri kelke da okazoj, se oni pensas pri preterpasi ĉi tiun ĉapitron. Priparolis kiel
