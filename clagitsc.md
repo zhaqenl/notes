@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 23-an de Februaro 2018
+-------------------------
+
+- priparolis la koncepton de 'Enigo/Eligo' de ĉapitro 9, kaj la uzadon de la `read`-an kaj la
+  `with-open-file`-an funkciojn. 
+
 la 22-an de Februaro 2018
 -------------------------
 
