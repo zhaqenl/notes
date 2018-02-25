@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 25-an de Februaro 2018
+-------------------------
+
+- finis fari la klavarak ekzercon de ĉapitro 9, kiu volis min por krei funkciojn kiu povas krei
+  diagramon kiam oni donas al la funkcio la ĝustajn enigojn. Priparolis la 'DRIBBLE'-an
+  utilon. Priparolis la alian strukturajn direktivojn (angle 'format directives'), esceptokazi '~S'
+  kaj siaj amikoj kaj priparolis la alian integritajn eligajn funkciojn de Lispo (kiu estas la
+  amikoj de `print`, ekzemple, `prin1`). 
+
 la 23-an de Februaro 2018
 -------------------------
 
