@@ -7,6 +7,11 @@ ULSAH
 
 - priparolis la malrapidan progreson de la evoluo de komputila sekurigo.
 
+### la 25-an de Februaro 2018
+
+- priparolis konceptojn kiu estas rilata al kriptografio, ekzemple, OpenSSH-o (aldone priparolis la
+  diversajn opciojn de la `ssh` komando). 
+
 ### la 23-an de Februaro 2018
 
 - priparolis unu el la plej gravaj aferoj kiu oni bezonas fari por sekurigi ilian propran sistemon
