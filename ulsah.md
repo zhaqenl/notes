@@ -7,6 +7,14 @@ ULSAH
 
 - priparolis la malrapidan progreson de la evoluo de komputila sekurigo.
 
+### la 26-an de Februaro 2018
+
+- priparolis la eblajn opciojn kiu oni povas meti en la `sshd_config`-a dosiero. Priparolis kiel uzi
+  je `scp` kaj je `sftp` por transmeti dosierojn. Ankaŭ priparolis la alian manieron por malloke
+  aliri ion, krom je OpenSSH. Priparolis la uzadon de fajroŝirmiloj. Priparolis la koncepton de
+  'Virtuala Privata Reto'. Priparolis kie akiri scion pri la diversaj specoj de sekurigaj
+  standardoj kaj informoj. 
+
 ### la 25-an de Februaro 2018
 
 - priparolis konceptojn kiu estas rilata al kriptografio, ekzemple, OpenSSH-o (aldone priparolis la
