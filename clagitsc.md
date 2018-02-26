@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 26-an de Februaro 2018
+-------------------------
+
+- priparolis kiel krei simplan 'Tic-tac-toe'-an ludon. Ankaŭ priparolis kiel vidi malbonan uzadon de
+  la `setf` funkcio ene funkcioj, kaj priparolis manieron por ripari tion. Priparolis la uzadon de
+  'racieco erarkontrolo' ene funkcioj, por ke, ekzemple, oni povas certiĝi se la enigoj estas fakte
+  la ĝusta formo. Faros, sekve, la modifikon de la 'Tic-tac-toe'-a ludo, por rimarki la akcelitajn
+  strategiojn kiu la uzanto povas uzi. 
+
 la 25-an de Februaro 2018
 -------------------------
 
