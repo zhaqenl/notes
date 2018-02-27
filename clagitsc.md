@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 27-an de Februaro 2018
+-------------------------
+
+- finis modifiki la funkciojn de la 'Tic-tac-toe'-a ludo, por ke, la artefarita ludanto povas
+  inkludi la akcelitajn strategiojn.
+
 la 26-an de Februaro 2018
 -------------------------
 
