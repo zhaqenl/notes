@@ -2,10 +2,27 @@ ULSAH
 =====
 
 
+Ĉapitro 28a: Monitoradon
+------------------------
+
+- priparolas la koncepton de monitoradon, kiu precipe diras, ke oni ne devas malatenti la potencon
+  de monitoradon, nur tial ke, tio estas ĉagrenaĵo
+
+### la 27-an de Februaro 2018
+
+- priparolis la diversajn platformojn kiu la sistemadministrado povas uzi. priparolis la uzadon de
+  StatsD por kolekti datumojn. Ankaŭ priparolis la bazan koncepton de reta monitorado (kiu oni povas
+  uzi la bazan `ping`-an komandon). 
+
+
 Ĉapitro 27a: Sekurigon
 ----------------------
 
 - priparolis la malrapidan progreson de la evoluo de komputila sekurigo.
+
+### la 27-an de Februaro 2018
+
+- priparolis kiel trakti kiam la ejo havas sekurecan rompon. 
 
 ### la 26-an de Februaro 2018
 
