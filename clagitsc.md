@@ -2,6 +2,16 @@ CLAGITSC
 ========
 
 
+la 1-an de Marto 2018
+---------------------
+
+- modifikis denove la logiko de mia algoritmo en la 'Tic-tac-toe' ludo, tial ke, mi rimarkis, ke mia
+  algoritmo ne kontrolas, se la pozicio estas neokupita, se la komputilo volas provi la akcelitajn
+  strategiojn. Lernis la uzadon de `setf` por ŝanĝi la strukturon de listoj (por indiki la referenco
+  al la alia referenco). Priparolis la aliajn specojn de la funkcioj kiu povas ŝangi la strukturon
+  de listoj (kiu havas la 'N' en sia nomo, ekzemple, 'NCONC'). Priparolis la uzadon de la simplaj
+  manieroj por krei funkciojn kun iteracioj, ekzemple `dolist` kaj `dotimes`
+
 la 27-an de Februaro 2018
 -------------------------
 
