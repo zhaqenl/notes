@@ -2,11 +2,31 @@ ULSAH
 =====
 
 
+Ĉapitro 29a: Rendimentan Analizon
+---------------------------------
+
+- priparolis la koncepton de la ekvilibro inter la scienca parto (kiu parolas pri la parto kiu la
+  sistemadministranto vidas la sistemojn, objektive) kaj la arta parto (praktikan perspektivon) de
+  rendimenta analizo.
+
+### la 1-an de Marto 2018
+
+- priparolis la filozofion de provi plibonigi la rendimenton de la specifa sistemo (ankaŭ priparolis
+  la konkretan metodon por plibonigi rendimenton). Priparolis la bazajn faktorojn (aŭ risurcojn) kiu
+  afekcias la rendimenton de sistemo (ekzemple, la memorilo kaj la ĉefprocezilo). Priparolis kiel
+  analizi problemojn pro rendimento (kaj la gravajn paŝojn por fari pro tio). 
+
+
 Ĉapitro 28a: Monitoradon
 ------------------------
 
 - priparolas la koncepton de monitoradon, kiu precipe diras, ke oni ne devas malatenti la potencon
   de monitoradon, nur tial ke, tio estas ĉagrenaĵo
+
+### la 1-an de Marto 2018
+
+- priparolis la komandojn kaj utilojn kiu oni povas uzi por monitori sistemojn (ekzemple, specife,
+  la sekurigan monitoradon). Priparolis la ĝeneralajn konsiletojn pri monitorado. 
 
 ### la 27-an de Februaro 2018
 
