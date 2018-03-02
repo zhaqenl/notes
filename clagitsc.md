@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 2-an de Marto 2018
+---------------------
+
+- kreis la iteracian version de kelke da antaŭaj funkcioj (ekzemple, `length`, `nth`, `union`, kaj
+  ktp). Ankaŭ lernis la uzadon de la `do` funkcio.
+
 la 1-an de Marto 2018
 ---------------------
 
