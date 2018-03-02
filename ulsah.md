@@ -2,12 +2,31 @@ ULSAH
 =====
 
 
+Ĉapitro 30a: La Bazajn de Datumejo
+----------------------------------
+
+- priparolas la komponantojn de datumejo kaj la graveco de kompreni pli bone kie la datoj loĝas
+
+### la 2-an de Marto 2018
+
+- priparolis la plej bonan manieron por stapli servilaparatarojn kiu estas ene rakoj. Priparolis la
+  alternativajn fontojn de elektro kiam la ĉefa fonto malsukcese funkcias (ekzemple, 'UPS' kaj la
+  generatoro). Priparolis kelke da koncepto pri elektro, ekzemple, la konvertrapidon de kilovato al
+  kilovolto-ampero.
+
+
 Ĉapitro 29a: Rendimentan Analizon
 ---------------------------------
 
 - priparolis la koncepton de la ekvilibro inter la scienca parto (kiu parolas pri la parto kiu la
   sistemadministranto vidas la sistemojn, objektive) kaj la arta parto (praktikan perspektivon) de
   rendimenta analizo.
+
+### la 2-an de Marto 2018
+
+- priparolis la komandon por akiri la bazajn informojn de la sistemo (per la sistemkernaj
+  dosieroj). Ankaŭ priparolis kelke da utilaj komandoj kiu povas montri al la uzanto informon pri la
+  ĉefprocezilo kaj memorilo. 
 
 ### la 1-an de Marto 2018
 
