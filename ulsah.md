@@ -2,10 +2,28 @@ ULSAH
 =====
 
 
+Ĉapitro 31a: Metodologion, Kondutmanieron, kaj Politikon
+--------------------------------------------------------
+
+- priparolas la novan servan filozofion kiu estas DevOps kiu kuraĝiĝas ŝanĝojn, anstataŭ rezisti
+  ilin
+
+### la 4-an de Marto 2018
+
+- priparolis la ĝeneralajn bonajn kutimojn de bona sistemadministranto, specife, kiam oni priparolas
+  tion pri la regio de la 'DevOps' mondo. Priparolis la bonajn kutimojn de krei bonajn
+  dokumentadojn.
+
+
 Ĉapitro 30a: La Bazajn de Datumejo
 ----------------------------------
 
 - priparolas la komponantojn de datumejo kaj la graveco de kompreni pli bone kie la datoj loĝas
+
+### la 4-an de Marto 2018
+
+- priparolis kelke da formulon por kalkuli la bezonatan malplivarmiĝon de servilaj rakoj, kaj ankaŭ
+  priparolis la bezonatajn utilojn de bona sistemadministranto. 
 
 ### la 2-an de Marto 2018
 
