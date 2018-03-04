@@ -2,6 +2,13 @@ CLAGITSC
 ========
 
 
+la 4-an de Marto 2018
+---------------------
+
+- faris kelke da aliiĝoj de kelke da funkcio, ekzemple, la aliiĝo de `dolist` al `dotimes`, `do*` al
+  `do` kaj ktp. Priparolis la uzadon de la `return-from` funkcio. Faros, sekve, la klavaran ekzercon
+  de ĉapitro 11a. 
+
 la 2-an de Marto 2018
 ---------------------
 
