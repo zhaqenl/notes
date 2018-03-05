@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 5-an de Marto 2018
+---------------------
+
+- preskaŭ finita pri la klavara ekzerco de ĉapitro 11a, kiu volas min por krei funkciojn kiu rilatas
+  al la modelo de la DNA fadeno. 
+
 la 4-an de Marto 2018
 ---------------------
 
