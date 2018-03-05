@@ -8,6 +8,12 @@ ULSAH
 - priparolas la novan servan filozofion kiu estas DevOps kiu kuraĝiĝas ŝanĝojn, anstataŭ rezisti
   ilin
 
+### la 5-an de Marto 2018
+
+- priparolis la manierojn por katastrofa administrado. Priparolis la kontraston inter 'proceduroj'
+  kaj 'polisoj'. Ankaŭ priparolis la aliajn fontojn de Linuksa apoga grupo. Nune priparolas la
+  lakonan historion de sistemadministrado (de Dr. Peter H. Salus). 
+
 ### la 4-an de Marto 2018
 
 - priparolis la ĝeneralajn bonajn kutimojn de bona sistemadministranto, specife, kiam oni priparolas
