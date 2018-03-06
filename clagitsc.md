@@ -2,6 +2,16 @@ CLAGITSC
 ========
 
 
+la 6-an de Marto 2018
+---------------------
+
+- finis fari la klavaran ekzercon de ĉapitro 11a. Priparolis la utilan funkcion kiu estas
+  `time`. Priparolis la `prog1`, `prog2`, kaj `progn` funkciojn. Priparolis la uzadon de malnepraj
+  argumentoj de funkcioj (kaj ankaŭ ĉefvortaj argumentoj). Lernis kiel funckio povas procezi senlima
+  nombro de argumentoj per la uzado de '&rest' ene la argumentaj listoj. Priparolis, ene ĉapitro 12a
+  (kiu priparolas la koncepton de 'strukturoj (nova datumtipo)'), la uzadon de `typep` kaj
+  `type-of`.
+
 la 5-an de Marto 2018
 ---------------------
 
