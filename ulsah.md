@@ -8,6 +8,10 @@ ULSAH
 - priparolas la novan servan filozofion kiu estas DevOps kiu kuraĝiĝas ŝanĝojn, anstataŭ rezisti
   ilin
 
+### la 6-an de Marto 2018
+
+- finis legi la lakonan historion de sistemadministrado. 
+
 ### la 5-an de Marto 2018
 
 - priparolis la manierojn por katastrofa administrado. Priparolis la kontraston inter 'proceduroj'
