@@ -10,7 +10,8 @@ la 6-an de Marto 2018
   argumentoj de funkcioj (kaj ankaŭ ĉefvortaj argumentoj). Lernis kiel funckio povas procezi senlima
   nombro de argumentoj per la uzado de '&rest' ene la argumentaj listoj. Priparolis, ene ĉapitro 12a
   (kiu priparolas la koncepton de 'strukturoj (nova datumtipo)'), la uzadon de `typep` kaj
-  `type-of`.
+  `type-of`. Priparolis kelke da klavaraj ekzercoj de ĉapitro 12a, kiu volas min por krei diversajn
+  funkciojn por trairas la enhavojn de strukturoj. 
 
 la 5-an de Marto 2018
 ---------------------
