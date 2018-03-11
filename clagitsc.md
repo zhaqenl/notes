@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 11-an de Marto 2018
+----------------------
+
+- finis skribi la funkciojn de la klavara ekzerco de ĉapitro 12a. Priparolis la koncepton de
+  struktura heridado pri la kreado de strukturoj per inkluzivi la `:include` opcion. Priparolis la
+  uzadon de la `aref` funkcio por aliri la enhavojn de tabeloj. Priparolis la uzadon de `make-array`
+  (kaj siaj gravaj ĉefvortaj argumentoj) por krei tabelojn. Priparolis, ke oni ankau povas uzi la
+  vektorajn funkciojn al signovicoj. 
+
 la 6-an de Marto 2018
 ---------------------
 
