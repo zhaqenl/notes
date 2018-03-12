@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 12-an de Marto 2018
+----------------------
+
+- priparolis la uzadon de la `make-hash-table` funkcio. Priparolis la koncepton de atributolistoj
+  (kaj la gravaj funkcioj kiuj povas trakti sin). Kreis funkciojn kiuj volis min por uzi la
+  atributolistaj funkcioj (ekzemple, `symbol-plist` kaj `get`). Faris klavaran ekzercon kiun volis
+  min por krei funkcion kiun havas la volitan eligon en la komenco de la ekzerco. Faros, sekve, la
+  alian klavaran ekzercon pri la hakettabeloj.
+
 la 11-an de Marto 2018
 ----------------------
 
