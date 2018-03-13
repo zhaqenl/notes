@@ -2,6 +2,11 @@ CLAGITSC
 ========
 
 
+la 13-an de Marto 2018
+----------------------
+
+- Finfaris la ĉefan klavaran ekzercon de ĉapitro 13a.
+
 la 12-an de Marto 2018
 ----------------------
 
