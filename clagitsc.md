@@ -2,6 +2,15 @@ CLAGITSC
 ========
 
 
+la 15-an de Marto 2018
+----------------------
+
+- priparolis la koncepton de la redisponigo de memoro. Priparolis la uzadon de la amiko de `mapcar`,
+  kiu estas `map` kaj ankau priparolis sian sintakson. kaj priparolis la uzadon de `coerce` por
+  konverti la specon de sekvenceo. Priparolis la uzadon de la `defmacro` funkcio. Priparolis la
+  uzadon de la malapostrofa simbolo kiel la alternative de uzi la `list` funkcion kaj la apostrofajn
+  simbolojn.
+
 la 13-an de Marto 2018
 ----------------------
 
