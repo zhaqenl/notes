@@ -2,6 +2,11 @@ CLAGITSC
 ========
 
 
+la 16-an de Marto 2018
+----------------------
+
+- nune solvas la problemon pri makrooj kaj priparolis la koncepton de kompilado.
+
 la 15-an de Marto 2018
 ----------------------
 
