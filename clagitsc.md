@@ -2,6 +2,14 @@ CLAGITSC
 ========
 
 
+la 18-an de Marto 2018
+----------------------
+
+- finfaris la ekzercon de ĉapitro 14a, kiun volis min por aldoni eblojn al la kodskribo de la
+  ĉapitro (kaj antaŭe priparolis la rapidplibonigo de la uzado de `compile`). Priparolis la uzadon
+  de la `ppmx` utilo. Nune faras la klavaran ekzercon kiun postulas min por krei kompililon de la
+  antaŭa agado.
+
 la 16-an de Marto 2018
 ----------------------
 
