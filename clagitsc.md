@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 19-an de Marto 2018 (Gardanta devo)
+--------------------------------------
+
+- finskribis la kodon de la klavara ekzerco de ĉapitro 14a. Priparolis la koncepton de
+  'malstrukturi' la argumentojn de makrooj (kiuj ne eblas en ordinaraj funkcioj). 
+
 la 18-an de Marto 2018
 ----------------------
 
