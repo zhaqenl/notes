@@ -2,6 +2,12 @@ CLAGITSC
 ========
 
 
+la 20-an de Marto 2018
+----------------------
+
+- priparolis la kontraston inter leksia regiono kaj dinamika regiono. Priparolis la `defvar`,
+  `defparameter`, kaj la `defconstant` funkciojn kaj siaj kontrastoj. 
+
 la 19-an de Marto 2018 (Gardanta devo)
 --------------------------------------
 
