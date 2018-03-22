@@ -2,6 +2,11 @@ CLAGITSC
 ========
 
 
+la 22-an de Marto 2018
+----------------------
+
+- finrevuis je CLAGITSC. Komencis legi je PCL.
+
 la 20-an de Marto 2018
 ----------------------
 
