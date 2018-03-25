@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 25-an de Marto 2018
+----------------------
+
+- priparolis la detalojn de la argumenta listo de funkcioj kaj kio oni povas fari pri tio kaj la
+  diversaj ebloj. 
+
 la 23-an de Marto 2018
 ----------------------
 
