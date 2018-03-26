@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 26-an de Marto 2018
+----------------------
+
+- legis, ĉefe, kiel oni kreas makroojn (kion oni devas konsider antaŭ oni kreas makroojn)
+
 la 25-an de Marto 2018
 ----------------------
 
