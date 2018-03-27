@@ -2,6 +2,17 @@ PCL
 ===
 
 
+la 27-an de Marto 2018
+----------------------
+
+- meze en ĉapitro 9a, pri la restrukturi de kodoj per uzi makroojn (por plibonigi la kodon kaj eviti
+  duoblojn), mi akcidente donis al `mapcar` makroojn kiel sia argumento, tamen, `mapcar` nur povas
+  akcepti funkciojn kiel sia argumento, do, mi legis, rete, kiel doni makroojn kiel argumento al
+  `mapcar` (antaŭe priparolis kiel krei bonan testan funkcion (sen la duplikatoj kaj naŭzaj
+  kodoj)). Priparolis multe da dataa speco kiun Lispo povas trakti kaj la funkcioj kiujn povas
+  akcepti ilin. Nune legas ĉapitron 11a, kiu priparolas pri kolektadoj (ene estas vektoroj kaj siaj
+  amikoj).
+
 la 26-an de Marto 2018
 ----------------------
 
