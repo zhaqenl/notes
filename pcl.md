@@ -2,6 +2,14 @@ PCL
 ===
 
 
+la 29-an de Marto 2018
+----------------------
+
+- repriparolis multe da funkcio kiu povas agi laŭ sekvencoj. Repriparolis la gravan kontraston inter
+  la detruaj kaj la nedetruaj funkcioj. Repriparolis la aliajn uzadojn de `cons cells` (kiel
+  hakettabelo, `alists`, `plists`, ktp.). Repriparolis, kune plimulte da detalo, la eblon de Lispo
+  por trakti dosierojn (kaj dosiera eneligo).
+
 la 27-an de Marto 2018
 ----------------------
 
