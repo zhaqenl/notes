@@ -2,6 +2,13 @@ PCL
 ===
 
 
+la 30-an de Marto 2018
+----------------------
+
+- priparolis plimulte da detalo de kapablo de Komunlispo por trakti dosierojn (kaj dosierujojn) kaj
+  la aliaj malgrandaj detaloj de la funkcioj kiujn oni povas uzi. (Nune lernas pri blokĉeno kaj
+  ĉifromono). 
+
 la 29-an de Marto 2018
 ----------------------
 
