@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 1-an de Aprilo 2018
+----------------------
+
+- finlegis je That Book on Blockchain. Nune legas je Attack on the 50 Foot Blockchain.
+
 la 30-an de Marto 2018
 ----------------------
 
