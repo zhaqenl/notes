@@ -2,6 +2,14 @@ PCL
 ===
 
 
+la 2-an de Aprilo 2018
+----------------------
+
+- finlegis je Attack on the 50 Foot Blockchain. Rekomencis legi je PCL. Priparolis kiel skribi
+  kodon, por ke, en la aliaj realigoj de Lispo, la kodo ankoraŭ povas funkcii. Priparolas nune la
+  helpadofunkciojn por helpi min trakti la konflikto pri la dosierindiko de la diversaj
+  dosierindikaj reprezentadoj.
+
 la 1-an de Aprilo 2018
 ----------------------
 
