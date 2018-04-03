@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 3-an de Aprilo 2018
+----------------------
+
+- legis en ĉapitro 15a pri la funkcioj kiuj traktas dosierujojn kaj dosierojn. Nune legas ĉapitron
+  16a kiu estas pri la kreado de komunaj funkcioj (kaj ankaŭ `defmethod` kaj `defgeneric`). 
+
 la 2-an de Aprilo 2018
 ----------------------
 
