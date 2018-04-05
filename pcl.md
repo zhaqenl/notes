@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 5-an de Aprilo 2018
+----------------------
+
+- relegis la detalojn de metodoj kaj legis kelke da specifaj detaloj de klasoj de Komuna Lispo
+  (ankaŭ legis kiel krei novajn klasojn). 
+
 la 3-an de Aprilo 2018
 ----------------------
 
