@@ -2,6 +2,14 @@ PCL
 ===
 
 
+la 6-an de Aprilo 2018
+----------------------
+
+- provis scii kiel la `setf` funkcioj funkcias, tamen, mi nur provis scii la ŝablonon de la funkcio
+  de tio. Priparolis la detalojn de kiel la klasoj povas havi multe da superklaso (ankaŭ priparolis
+  kiel uzi la aliajn integritajn funkciojn por purigi la kodojn kiujn volas uzi la `slot-value`
+  komandon)
+
 la 5-an de Aprilo 2018
 ----------------------
 
