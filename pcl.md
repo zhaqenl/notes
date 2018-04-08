@@ -2,6 +2,13 @@ PCL
 ===
 
 
+la 8-an de Aprilo 2018
+----------------------
+
+- repriparolis, en ĉapitro 18a, plimulte da detalo de la `format` funkcio (kiel legi la diversajn
+  direktivojn de tiu komando (kiel legi multe da speco de spageta kodo)). Priparolas, nune, kiel
+  Komuna Lispo traktas esceptotraktadojn (en ĉapitro 19a). 
+
 la 6-an de Aprilo 2018
 ----------------------
 
