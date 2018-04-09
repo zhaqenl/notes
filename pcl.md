@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 9-an de Aprilo 2018
+----------------------
+
+- priparolas kelke da ekzemplo de speciala operacio en ĉapitro 20a (kaj kiel ili funkcias). 
+
 la 8-an de Aprilo 2018
 ----------------------
 
