@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 10-an de Aprilo 2018
+-----------------------
+
+- priparolis, ene ĉapitro 21a, kiel trakti pakaĵojn, kaj ene ĉapitro 22a, la detalojn de la `loop`
+  makroo. 
+
 la 9-an de Aprilo 2018
 ----------------------
 
