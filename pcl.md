@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 12-an de Aprilo 2018
+-----------------------
+
+- priparolas, nune, kiel krei funkciojn por trakti trudmesaĝojn kaj kiel instrui la filtrilon
+
 la 10-an de Aprilo 2018
 -----------------------
 
