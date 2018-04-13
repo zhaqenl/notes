@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 13-an de Aprilo 2018
+-----------------------
+
+- priparolas, ene ĉapitro 24a, kiel trakti binarajn dosierojn (kaj ankaŭ priparolas la teĥnikojn por
+  legi ilin diĝite). 
+
 la 12-an de Aprilo 2018
 -----------------------
 
