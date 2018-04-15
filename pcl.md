@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 15-an de Aprilo 2018
+-----------------------
+
+- priparolas, nune, la strategiojn por krei la diversajn makroojn, funkciojn, kaj klasojn, por la
+  bezonataj taskoj de krei la optiman agmanieron de la funkcioj. 
+
 la 13-an de Aprilo 2018
 -----------------------
 
