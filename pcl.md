@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 16-an de Aprilo 2018
+-----------------------
+
+- priparolas nun, kiel uzi la antaŭajn funkciojn por krei je ID3 parser (en ĉapitro 25a)
+
 la 15-an de Aprilo 2018
 -----------------------
 
