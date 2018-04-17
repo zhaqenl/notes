@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 17-an de Aprilo 2018
+-----------------------
+
+- priparolas, nune, kiel modifiki bone la antauaĵn kreitajn makroojn (kaj funkciojn) por pli bone
+  svati la novajn bezonojn de la pli nova precizigo (id3v2.3 kontraŭ id3v2.2, ekzemple)
+
 la 16-an de Aprilo 2018
 -----------------------
 
