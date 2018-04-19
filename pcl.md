@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 19-an de Aprilo 2018
+-----------------------
+
+- priparolas la uzadon de AllegroServe kiel retservilo en ĉapitro 26a
+
 la 17-an de Aprilo 2018
 -----------------------
 
