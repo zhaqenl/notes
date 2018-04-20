@@ -2,6 +2,12 @@ PCL
 ===
 
 
+la 20-an de Aprilo 2018
+-----------------------
+
+- legas nune ĉapitron 29a pri la kreado de MP3 retumilo (kiu kompreneble uzas la funkciojn en la
+  antaŭaj ĉapitroj). 
+
 la 19-an de Aprilo 2018
 -----------------------
 
