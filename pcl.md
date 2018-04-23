@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 23-an de Aprilo 2018
+-----------------------
+
+- priparolas nun en ĉapitro 31a, la kompililan parton de la HTML-a generilo.
+
 la 22-an de Aprilo 2018
 -----------------------
 
