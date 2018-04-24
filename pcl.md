@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 24-an de Aprilo 2018
+-----------------------
+
+- finlegas je PCL per la 31a ĉapitro kiu priparolas kiel optimigi komunlispan kodon.
+
 la 23-an de Aprilo 2018
 -----------------------
 
