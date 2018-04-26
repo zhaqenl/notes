@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 26-an de Aprilo 2018
+-----------------------
+
+- nune plibonigas la kodojn clagitsc-e.
+
 la 24-an de Aprilo 2018
 -----------------------
 
