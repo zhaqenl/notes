@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 27-an de Aprilo 2018
+-----------------------
+
+- nun finfaris plibonigi tridek kvin elcenton de la tuta dosiero kiu enhavas la kodojn.
+
 la 26-an de Aprilo 2018
 -----------------------
 
