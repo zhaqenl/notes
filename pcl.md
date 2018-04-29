@@ -2,6 +2,11 @@ PCL
 ===
 
 
+la 29-an de Aprilo 2018
+-----------------------
+
+- finfaris okdek du elcenton de la tuta grandeco de la kodpliboniĝo.
+
 la 27-an de Aprilo 2018
 -----------------------
 
